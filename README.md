@@ -6,9 +6,9 @@ Welcome to the **Aetheris Go Learning Repository**. This directory contains comp
 
 The material here is organized into two distinct learning approaches:
 
-### 1. [By Practice (`/ByPract`)](./ByPract/)
+### 1. [By Practice (`/ByPract`)](./ByPract/README.md)
 This track focuses on learning Go by building practical, real-world applications from scratch.
-* **[The Ultimate Guide to Building Web Servers in Go](./ByPract/WebServer/README.md)**: A comprehensive deep-dive into building backend web services. It covers everything from standard library `net/http` basics and Go 1.22 routing to advanced patterns, middlewares, database connections, and concurrency.
+* **[View the Practice Projects Index](./ByPract/README.md)**
 
 ### 2. [By Question / Example (`/ByQ`)](./ByQ/README.md)
 This track provides bite-sized, atomic lessons covering specific Go concepts, syntax, and standard library features. It is structured sequentially from absolute beginner topics to advanced engineering concepts.
