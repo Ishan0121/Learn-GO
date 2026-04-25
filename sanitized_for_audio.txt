@@ -3,6 +3,9 @@ Chapter 6: Frameworks vs.
 The Standard Library.
 [] []
 
+ 
+ 
+
 Throughout this guide, we have used the standard library (net/http).
 As we've seen, it is incredibly powerful.
 Especially with the Go 1.22 routing updates, many companies have abandoned external frameworks entirely.
